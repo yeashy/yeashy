@@ -22,7 +22,7 @@ Main stack: **PHP, Go, Docker** ⚡
 - 🔭 Currently working on: marketplace architecture & Laravel tooling  
 - 🌱 Learning: scalable systems, DevOps practices  
 - 💬 Ask me about: Laravel, clean architecture, backend patterns  
-- 📫 How to reach me: yeashy@work.com
+- 📫 How to reach me: yeashy.work@gmail.com
 
 ---
 
