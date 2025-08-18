@@ -1,8 +1,12 @@
 name: Generate Metrics
+
+permissions:
+  contents: write 
+
 on:
   schedule:
-    - cron: "0 */12 * * *"   # обновлять каждые 12 часов
-  workflow_dispatch:          # запуск вручную
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
