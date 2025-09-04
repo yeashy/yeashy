@@ -1052,7 +1052,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabbitmq/amqp091-go</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`</div>
@@ -1105,7 +1105,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stretchr/testify</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolkit with common assertions and mocks that plays nicely with the standard library</div>
@@ -1211,7 +1211,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yeashy/compliance</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convenient Laravel pipeline validation</div>
@@ -1264,7 +1264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briannesbitt/Carbon</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple PHP API extension for DateTime.</div>
@@ -1470,7 +1470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2025, 00:43:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2025, 12:19:23  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
