@@ -364,7 +364,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 354kb of code in 212 edited files across 119 commits over last 11 days</small>
+                <small>estimation from 354kb of code in 212 edited files across 119 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1097,7 +1097,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rabbitmq/amqp091-go</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`</div>
@@ -1150,7 +1150,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stretchr/testify</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A toolkit with common assertions and mocks that plays nicely with the standard library</div>
@@ -1256,7 +1256,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yeashy/compliance</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convenient Laravel pipeline validation</div>
@@ -1309,7 +1309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>briannesbitt/Carbon</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple PHP API extension for DateTime.</div>
@@ -1515,7 +1515,7 @@ feature: NAMB-319 - Реализация БАЗЫ сервиса user со вс�
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2025, 00:49:58  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Sept 2025, 12:16:27  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
